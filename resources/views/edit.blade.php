@@ -4,7 +4,7 @@
     <input type="hidden" name="task_id" value="{{ $task->id }}">
     <label for="title">title:</label>
     <input type="text" name="title" value="{{ $task->title }}" required>
-
+    что за хуйяня хвахвахв
     <label for="description">description</label>
     <input type="text" name="description" value="{{ $task->description }}" required>
 
